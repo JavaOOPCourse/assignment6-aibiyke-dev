@@ -10,7 +10,7 @@ public class Main {
         // ====================== TASK 1 ======================
         // TODO: Добавь минимум 5 студентов (ключ = ID)
         students.put("0001", new Student("Kanykei", 3.9, 20));
-        students.put("0002", new Student("Aktan", 3.1, 27));
+        students.put("0002", new Student("Aktan", 3.0, 27));
         students.put("0003", new Student("Akylai", 3.3, 19));
         students.put("0004", new Student("Diana", 3.0, 17));
         students.put("0005", new Student("Aibiyke", 4.0, 20));
